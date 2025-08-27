@@ -6,7 +6,8 @@ A brief description of what this project does and who it's for
 
 ## Screenshots
 
-![App Screenshot](https://disk.yandex.by/i/Jqs7OXCmHnyW6A)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+          
 
 
 
