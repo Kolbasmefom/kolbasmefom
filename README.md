@@ -6,7 +6,7 @@ A brief description of what this project does and who it's for
 
 ## Screenshots
 
-![App Screenshot](https://pin.it/6mIHm8xWQ)
+![App Screenshot](https://disk.yandex.by/i/Jqs7OXCmHnyW6A)
 
 
 
